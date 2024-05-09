@@ -7,3 +7,7 @@ In this project, the dataset from Kaggle was used:
 To achieve satisfactory results, rigorous treatment of my dataset would be necessary.
 
 ## This project is not fully up-to-date, as I use it mainly for testing, especially with environments.
+
+If necessary, I can provide the entire environment used and an installation guide. 
+Regarding the dataset used, I will make it available on my Google Drive. Feel free to use it.
+https://drive.google.com/file/d/1NWzWzXUrOEoPp6PW1xv6UWfoFGEcMKt5/view?usp=drive_link
